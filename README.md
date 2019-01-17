@@ -1,10 +1,10 @@
-#Kirnath X ZeroByte.ID
-Free Spotify Tools
-Make sure you have installed Python 2.7
-
-#How to Use?
-> pip install requests
-> pip install termcolor
-> git clone https://github.com/kirnath/spotify-account.git
-> cd spotify-account
+#Kirnath X ZeroByte.ID <br/ >
+Free Spotify Tools<br/ >
+Make sure you have installed Python 2.7<br/ >
+<br/ >
+#How to Use?<br/ >
+> pip install requests<br/ >
+> pip install termcolor<br/ >
+> git clone https://github.com/kirnath/spotify-account.git<br/ >
+> cd spotify-account<br/ >
 > python check.py
